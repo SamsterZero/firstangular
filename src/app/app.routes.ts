@@ -14,5 +14,3 @@ const routeConfig: Routes = [
     },
 ];
 export default routeConfig;
-
-export const routes: Routes = [];
